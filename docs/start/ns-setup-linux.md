@@ -49,7 +49,7 @@ Complete the following steps to set up NativeScript on your Linux development ma
     <pre class="add-copy-button"><code class="language-terminal">sudo apt-get install g++
     </code></pre>
 
-4. Set up [JDK 8] [JDK 8](https://openjdk.java.net/install/).
+4. Set up [JDK 8](https://openjdk.java.net/install/).
     1. Run the following commands.
 
         <pre class="add-copy-button"><code class="language-terminal">
